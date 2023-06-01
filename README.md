@@ -4,7 +4,7 @@ This is a coding assessment for New Vision Foundation: Full Stack Coding Bootcam
 ## Instructions:
 - Clone this repo
 - Create a file and call it app.js
-- Solve the following [Fashion Measurement Conversion project](https://github.com/nu-viz/fs-bootcamp-assessment/edit/main/README.md#fashion-measurement-conversion)
+- Solve the following [Fashion Measurement Conversion project](https://github.com/nu-viz/fs-bootcamp-assessment#fashion-measurement-conversion)
 - Once project is complete push changes to YOUR own repository and name it by `firstname-lastname-fs-bootcamp-assessment` for example if your name is Sarah Ali, name your repo `sarah-ali-fs-bootcamp-assessment`
 - Copy link to repository and paste in in your application
 
